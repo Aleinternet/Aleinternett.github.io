@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 19 Jul 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://aleinternet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sobre mí</title>
+      <link>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</link>
+      <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</guid>
+      <description>xddd</description>
+    </item>
+    
+    <item>
       <title>Diseño</title>
       <link>https://aleinternet.github.io/2021/07/dise%C3%B1o/</link>
       <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
@@ -24,16 +33,30 @@ vxddd</description>
       <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
       
       <guid>https://aleinternet.github.io/2021/07/uai/</guid>
-      <description>Semestres de diseño</description>
+      <description>Semestres diseño UAI  1er Semestre 2do Semestre 3er Semestre 4to Semestre 5to Semestre   l 1er Semestre Ramos: Taller de interfaces
+[Volver Arriba]
+ll 2do Semestre [Volver Arriba]
+lll 3er Semestre [Volver Arriba]
+llll 4to Semestre [Volver Arriba]
+lV 5to Semestre [Volver Arriba]</description>
     </item>
     
     <item>
-      <title>Sobre mí</title>
-      <link>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</link>
+      <title>Complementarios</title>
+      <link>https://aleinternet.github.io/1999/06/complementarios/</link>
       <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
       
-      <guid>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</guid>
-      <description>xddd</description>
+      <guid>https://aleinternet.github.io/1999/06/complementarios/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Estética</title>
+      <link>https://aleinternet.github.io/1999/06/est%C3%A9tica/</link>
+      <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/1999/06/est%C3%A9tica/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>

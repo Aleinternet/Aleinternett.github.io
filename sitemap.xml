@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</loc>
+    <lastmod>1999-06-16T07:28:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aleinternet.github.io/2021/07/dise%C3%B1o/</loc>
+    <lastmod>2021-07-19T07:28:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aleinternet.github.io/2021/07/uai/</loc>
+    <lastmod>2021-07-19T07:28:17+08:00</lastmod>
+  </url><url>
     <loc>https://aleinternet.github.io/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
     <loc>https://aleinternet.github.io/tags/dise%C3%B1o/</loc>
-    <lastmod>2021-07-19T07:28:17+08:00</lastmod>
-  </url><url>
-    <loc>https://aleinternet.github.io/2021/07/dise%C3%B1o/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
     <loc>https://aleinternet.github.io/tags/ideas/</loc>
@@ -26,19 +32,25 @@
     <loc>https://aleinternet.github.io/tags/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
-    <loc>https://aleinternet.github.io/2021/07/uai/</loc>
-    <lastmod>2021-07-19T07:28:17+08:00</lastmod>
-  </url><url>
     <loc>https://aleinternet.github.io/tags/universidad-adolfo-ib%C3%A1%C3%B1ez/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
     <loc>https://aleinternet.github.io/tags/biograf%C3%ADa/</loc>
     <lastmod>1999-06-16T07:28:17+08:00</lastmod>
   </url><url>
-    <loc>https://aleinternet.github.io/tags/recorrido/</loc>
+    <loc>https://aleinternet.github.io/tags/complementario/</loc>
     <lastmod>1999-06-16T07:28:17+08:00</lastmod>
   </url><url>
-    <loc>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</loc>
+    <loc>https://aleinternet.github.io/1999/06/complementarios/</loc>
+    <lastmod>1999-06-16T07:28:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aleinternet.github.io/tags/est%C3%A9tica/</loc>
+    <lastmod>1999-06-16T07:28:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aleinternet.github.io/1999/06/est%C3%A9tica/</loc>
+    <lastmod>1999-06-16T07:28:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aleinternet.github.io/tags/recorrido/</loc>
     <lastmod>1999-06-16T07:28:17+08:00</lastmod>
   </url>
 </urlset>
