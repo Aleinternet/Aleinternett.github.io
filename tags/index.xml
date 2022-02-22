@@ -1,35 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vno Hugo</title>
+    <title>Tags on Alein theThings</title>
     <link>https://aleinternet.github.io/tags/</link>
-    <description>Recent content in Tags on Vno Hugo</description>
+    <description>Recent content in Tags on Alein theThings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://aleinternet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://aleinternet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Say Hi</title>
-      <link>https://aleinternet.github.io/tags/say-hi/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://aleinternet.github.io/tags/say-hi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vno</title>
-      <link>https://aleinternet.github.io/tags/vno/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://aleinternet.github.io/tags/vno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://aleinternet.github.io/tags/hugo/</link>
+      <title>Creaciones</title>
+      <link>https://aleinternet.github.io/tags/creaciones/</link>
       <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://aleinternet.github.io/tags/hugo/</guid>
+      <guid>https://aleinternet.github.io/tags/creaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diseño</title>
+      <link>https://aleinternet.github.io/tags/dise%C3%B1o/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/dise%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>https://aleinternet.github.io/tags/ideas/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramos</title>
+      <link>https://aleinternet.github.io/tags/ramos/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universidad Adolfo Ibáñez</title>
+      <link>https://aleinternet.github.io/tags/universidad-adolfo-ib%C3%A1%C3%B1ez/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/universidad-adolfo-ib%C3%A1%C3%B1ez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biografía</title>
+      <link>https://aleinternet.github.io/tags/biograf%C3%ADa/</link>
+      <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/biograf%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recorrido</title>
+      <link>https://aleinternet.github.io/tags/recorrido/</link>
+      <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/tags/recorrido/</guid>
       <description></description>
     </item>
     
