@@ -5,7 +5,7 @@
     <link>https://aleinternet.github.io/posts/</link>
     <description>Recent content in Posts on Alein theThings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://aleinternet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://aleinternet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre mí</title>
       <link>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</link>
@@ -13,14 +13,7 @@
       
       <guid>https://aleinternet.github.io/1999/06/sobre-m%C3%AD/</guid>
       <description>Alejandro Cifuentes Villarroel Complementario
-Estética
-   1st
-      2nd
-      3rd
-      4th
-      5th
-      6th
-                                 </description>
+Estética</description>
     </item>
     
     <item>
@@ -33,15 +26,6 @@ Estética
     </item>
     
     <item>
-      <title>Taller de interfaces</title>
-      <link>https://aleinternet.github.io/2020/08/taller-de-interfaces/</link>
-      <pubDate>Tue, 04 Aug 2020 07:28:17 +0800</pubDate>
-      
-      <guid>https://aleinternet.github.io/2020/08/taller-de-interfaces/</guid>
-      <description>Renders Probando 123</description>
-    </item>
-    
-    <item>
       <title>UAI</title>
       <link>https://aleinternet.github.io/2020/08/uai/</link>
       <pubDate>Sat, 15 Aug 2020 07:28:17 +0800</pubDate>
@@ -49,6 +33,105 @@ Estética
       <guid>https://aleinternet.github.io/2020/08/uai/</guid>
       <description>Semestres diseño UAI  1er Semestre 2do Semestre 3er Semestre 4to Semestre 5to Semestre    l 1er Semestre Ramos: Taller de diseño de interfaces
  La interfaz como medio por el cual se posibilita la conexión y comunicación se vuelve un eslabón fundamental de nuestra vida cotidiana, el cual nos permite re-pensarla desde el punto de vista tecnológico. Para ello, este ramo entrega la introducción a lo que es el diseño en sí tanto de forma práctica con la manipulación de diversos elementos como teórica para ser un medio entre el usuario y una actividad/producto.</description>
+    </item>
+    
+    <item>
+      <title>Electronica aplicada</title>
+      <link>https://aleinternet.github.io/2021/08/electronica-aplicada/</link>
+      <pubDate>Sun, 15 Aug 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/08/electronica-aplicada/</guid>
+      <description>Renders electro aplicada pol sem 3</description>
+    </item>
+    
+    <item>
+      <title>Fabricacion digital</title>
+      <link>https://aleinternet.github.io/2021/08/fabricacion-digital/</link>
+      <pubDate>Sun, 15 Aug 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/08/fabricacion-digital/</guid>
+      <description>Renders fab digital sem 3</description>
+    </item>
+    
+    <item>
+      <title>Programación diseño</title>
+      <link>https://aleinternet.github.io/2021/08/programaci%C3%B3n-dise%C3%B1o/</link>
+      <pubDate>Sun, 15 Aug 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/08/programaci%C3%B3n-dise%C3%B1o/</guid>
+      <description>Renders progra diseño sem 3</description>
+    </item>
+    
+    <item>
+      <title>Taller de espacios</title>
+      <link>https://aleinternet.github.io/2021/08/taller-de-espacios/</link>
+      <pubDate>Sun, 15 Aug 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/08/taller-de-espacios/</guid>
+      <description>Renders taller esacio sem 3</description>
+    </item>
+    
+    <item>
+      <title>Teoria diseño</title>
+      <link>https://aleinternet.github.io/2021/08/teoria-dise%C3%B1o/</link>
+      <pubDate>Sun, 15 Aug 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/08/teoria-dise%C3%B1o/</guid>
+      <description>Renders teoria diseño sem 3</description>
+    </item>
+    
+    <item>
+      <title>Fabricación de prototipos</title>
+      <link>https://aleinternet.github.io/2021/03/fabricaci%C3%B3n-de-prototipos/</link>
+      <pubDate>Mon, 08 Mar 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/03/fabricaci%C3%B3n-de-prototipos/</guid>
+      <description>Renders fab prototipos mv sem 2</description>
+    </item>
+    
+    <item>
+      <title>Historia diseño</title>
+      <link>https://aleinternet.github.io/2021/03/historia-dise%C3%B1o/</link>
+      <pubDate>Mon, 08 Mar 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/03/historia-dise%C3%B1o/</guid>
+      <description>Renders historia diseño sem 2</description>
+    </item>
+    
+    <item>
+      <title>Taller de pruductos</title>
+      <link>https://aleinternet.github.io/2021/03/taller-de-pruductos/</link>
+      <pubDate>Mon, 08 Mar 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2021/03/taller-de-pruductos/</guid>
+      <description>Renders taller productos sem 2</description>
+    </item>
+    
+    <item>
+      <title>Modelación</title>
+      <link>https://aleinternet.github.io/2020/08/modelaci%C3%B3n/</link>
+      <pubDate>Tue, 04 Aug 2020 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2020/08/modelaci%C3%B3n/</guid>
+      <description>Renders modelacion sem 1</description>
+    </item>
+    
+    <item>
+      <title>Taller de interfaces</title>
+      <link>https://aleinternet.github.io/2020/08/taller-de-interfaces/</link>
+      <pubDate>Tue, 04 Aug 2020 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/2020/08/taller-de-interfaces/</guid>
+      <description>Renders taller interfaces sem 1</description>
+    </item>
+    
+    <item>
+      <title>estetica</title>
+      <link>https://aleinternet.github.io/1999/06/estetica/</link>
+      <pubDate>Wed, 16 Jun 1999 07:28:17 +0800</pubDate>
+      
+      <guid>https://aleinternet.github.io/1999/06/estetica/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
