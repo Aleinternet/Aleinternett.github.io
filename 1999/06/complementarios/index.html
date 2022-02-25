@@ -18,7 +18,7 @@
     <meta name="author" content="Alein" /> 
      
     
-    <meta name="description" content="Sobre mí - Diseño - UAI" /> 
+    <meta name="description" content="Repositorio web del Ale del pasado" /> 
     
     
     <meta name="keywords" content="Complementario" />
@@ -71,7 +71,7 @@
           <span class="panel-cover__subtitle panel-subtitle">Alein</span>
           
           <hr class="panel-cover__divider" />
-          <p class="panel-cover__description">Sobre mí - Diseño - UAI</p>
+          <p class="panel-cover__description">Repositorio web del Ale del pasado</p>
           <hr class="panel-cover__divider panel-cover__divider--secondary" />
           
           
@@ -82,11 +82,11 @@
             <div>
               <nav class="cover-navigation cover-navigation--primary">
                 <ul class="navigation">
-                  <li class="navigation__item"><a href="/#blog" title="Sobre mí" class="blog-button">Sobre mí</a></li>
+                  <li class="navigation__item"><a href="/#blog" title="Inicio" class="blog-button">Inicio</a></li>
                   
-                    <li class="navigation__item"><a href="http://project.onevcat.com/" target="_blank" title="Proyectos">Proyectos</a></li>
+                    <li class="navigation__item"><a href="/2021/07/dise%C3%B1o/" target="" title="Diseño">Diseño</a></li>
                   
-                    <li class="navigation__item"><a href="/tags/" target="_blank" title="UAI">UAI</a></li>
+                    <li class="navigation__item"><a href="/2020/08/uai/" target="" title="UAI">UAI</a></li>
                   
                 </ul>
               </nav>
@@ -108,7 +108,7 @@
     
     
     <li class="navigation__item">
-      <a href="https://github.com/https://github.com/Aleinternet/Aleinternet.github.io" title="@https://github.com/Aleinternet/Aleinternet.github.io 的 Github" target="_blank">
+      <a href="https://https://github.com/Aleinternet/Aleinternet.github.io" title="@https://github.com/Aleinternet/Aleinternet.github.io 的 Github" target="_blank">
         <i class='social fa fa-github'></i>
         <span class="label">Github</span>
       </a>
@@ -191,6 +191,34 @@
 </ul>
 <!-- raw HTML omitted -->
 <hr>
+<h3 id="agregar-pdf">Agregar PDF</h3>
+
+<iframe id='pdf-hugo' src='/pdf/Sou_Fujimoto.pdf'
+frameborder="0" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:60vh;"></iframe>
+
+<button onclick="myFunction('pdf-hugo')" class="button button-primary mb-2" style="width: 100%;">Ver Pantalla Completa</button>
+
+<script>
+    function myFunction(id) {
+      document.getElementById(id).classList.add("full-screen");
+    }
+    document.addEventListener('keydown', function(event){
+	if(event.key === "Escape"){
+        document.getElementById('pdf-hugo').classList.remove("full-screen");
+	}
+});
+</script>
+<h3 id="agregar-imagen">Agregar imagen</h3>
+<p><img src="/img/jorge.jpg" alt="Tiramisú2"></p>
+<h3 id="agregar-video">Agregar video</h3>
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/img/123.mp4"  type="video/mp4">
+    </video>
+</div>
 <h3 id="agregar-iframe-de-fusion-360">Agregar Iframe de Fusion 360</h3>
 <div>
     <iframe 
@@ -245,7 +273,138 @@
 <!-- raw HTML omitted -->
 <hr>
 <h3 id="agregar-galería-fotos-lightbox">Agregar Galería Fotos Lightbox</h3>
-<p>{{&lt; gallery dir=&quot;/img/galeria/&quot; /&gt;}} {{&lt; load-photoswipe &gt;}}</p>
+<p>
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//1.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//1.jpg" alt="1st" />
+				    </div>
+			      <figcaption>
+		          <p>1st</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//1.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//2.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//2.jpg" alt="2nd" />
+				    </div>
+			      <figcaption>
+		          <p>2nd</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//2.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//3.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//3.jpg" alt="3rd" />
+				    </div>
+			      <figcaption>
+		          <p>3rd</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//3.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//4.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//4.jpg" alt="4th" />
+				    </div>
+			      <figcaption>
+		          <p>4th</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//4.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//5.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//5.jpg" alt="5th" />
+				    </div>
+			      <figcaption>
+		          <p>5th</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//5.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+				<div class="box">
+				  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				    <div class="img" style="background-image: url('https://aleinternet.github.io//img/galeria_Alarma//6.jpg');" >
+				      <img itemprop="thumbnail" src="https://aleinternet.github.io//img/galeria_Alarma//6.jpg" alt="6th" />
+				    </div>
+			      <figcaption>
+		          <p>6th</p>
+			      </figcaption>
+				    <a href="https://aleinternet.github.io//img/galeria_Alarma//6.jpg" itemprop="contentUrl"></a>
+				  </figure>
+				</div>
+</div>
+ 
+
+
+
+  
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+</p>
 <h5 id="código-galería-fotos-lightbox-markdown">Código <code>Galería Fotos Lightbox</code> Markdown</h5>
 <p>Carpeta de galeria se encuentra en <code>/static/img</code>. Es importante que cada galería de imágenes esté contenida en una carpeta.</p>
 <p>Para acceder a esa carpeta, se debe poner la ruta de acceso en el shortcode. Ejemplo con una carpeta llamada <code>galeria</code> dentro de <code>/static/img</code>.</p>
@@ -340,18 +499,13 @@ frameborder=&quot;0&quot; scrolling=&quot;yes&quot; seamless=&quot;seamless&quot
 <section class="read-more">
     
     <div class="read-more-item">
-        <span class="read-more-item-dim">最近的文章</span>
-        <h2 class="post-list__post-title post-title"><a href="/2021/07/uai/" title="link to UAI">UAI</a></h2>
-        <p class="excerpt">Semestres diseño UAI  1er Semestre 2do Semestre 3er Semestre 4to Semestre 5to Semestre   l 1er Semestre Ramos: Taller de interfaces
-[Volver Arriba]
-ll 2do Semestre [Volver Arriba]
-lll 3er Semestre [Volver Arriba]
-llll 4to Semestre [Volver Arriba]
-lV …&hellip;</p>
+        <span class="read-more-item-dim">Siguiente</span>
+        <h2 class="post-list__post-title post-title"><a href="/2020/08/taller-de-interfaces/" title="link to Taller de interfaces">Taller de interfaces</a></h2>
+        <p class="excerpt">Encargos  Plasticina conductora/aislante Hechizo Semáforo - Tinkercad Meraki     l Tinta conductora/aislante   ll Hechizo      lll Semáforo - Tinkercad Electrónica      lV Meraki Trabajo final Prototipo motores …&hellip;</p>
         <div class="post-list__meta">
-            <time datetime=" 1999-06-16 07:28:17 &#43;0800" class="post-list__meta--date date">2021-07-19</time>
-             <span class="post-list__meta--tags tags">   • <a href="https://aleinternet.github.io/tags/universidad-adolfo-ib%C3%A1%C3%B1ez">Universidad Adolfo Ibáñez</a>   • <a href="https://aleinternet.github.io/tags/ramos">Ramos</a>   • <a href="https://aleinternet.github.io/tags/dise%C3%B1o">Diseño</a>  </span> 
-            <a class="btn-border-small" href="/2021/07/uai/">继续阅读</a>
+            <time datetime=" 1999-06-16 07:28:17 &#43;0800" class="post-list__meta--date date">2020-08-04</time>
+             <span class="post-list__meta--tags tags">   • <a href="https://aleinternet.github.io/tags/uai">UAI</a>   • <a href="https://aleinternet.github.io/tags/universidad">Universidad</a>   • <a href="https://aleinternet.github.io/tags/encargos">Encargos</a>  </span> 
+            <a class="btn-border-small" href="/2020/08/taller-de-interfaces/">Entrar</a>
         </div>
     </div>
     
@@ -359,17 +513,17 @@ lV …&hellip;</p>
 
     
     <div class="read-more-item">
-        <span class="read-more-item-dim">更早的文章</span>
-        <h2 class="post-list__post-title post-title"><a href="/1999/06/est%C3%A9tica/" title="link to Estética">Estética</a></h2>
+        <span class="read-more-item-dim">Anterior</span>
+        <h2 class="post-list__post-title post-title"><a href="/1999/06/estetica/" title="link to estetica">estetica</a></h2>
         <p class="excerpt">Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.&hellip;</p>
         <div class="post-list__meta">
             <time datetime=" 1999-06-16 07:28:17 &#43;0800" class="post-list__meta--date date">1999-06-16</time>
              
             <span class="post-list__meta--tags tags"> 
-                  • <a href="https://aleinternet.github.io/tags/est%C3%A9tica">Estética</a>  
+                  • <a href="https://aleinternet.github.io/tags/estetica">estetica</a>  
             </span>
             
-            <a class="btn-border-small" href="/1999/06/est%C3%A9tica/">继续阅读</a>
+            <a class="btn-border-small" href="/1999/06/estetica/">Entrar</a>
         </div>
     </div>
     
@@ -405,8 +559,8 @@ lV …&hellip;</p>
 
         <section class="footer">
     <footer>
-        <span class="footer__copyright">本站点采用<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a></span>
-        <span class="footer__copyright">由 <a href="https://gohugo.io/">Hugo</a> 于 2022-02-22 生成，采用<a href="https://github.com/xslingcn/vno-hugo"> Vno - Hugo </a>作为主题</span>
+        <span class="footer__copyright">Agradecimientos a <a href="https://designlab.uai.cl/">https://designlab.uai.cl/</a></span>
+        <span class="footer__copyright">Página realizada con <a href="https://gohugo.io/">Hugo</a> el día 2022-02-24 junto al formato de <a href="https://github.com/xslingcn/vno-hugo"> Vno - Hugo </a> y GitHub</span>
     </footer>
 </section>
 
